@@ -1,0 +1,1 @@
+# ruby_association_certificated_ruby_pg
